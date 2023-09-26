@@ -32,7 +32,7 @@ const app = {
         name: "À Lôi",
         singer: "Masew",
         path: "/music/ALoi-Double2TMasew.mp3",
-        image: "../image/aloi.png"
+        image: "./image/aloi.png"
       },
   
       {
