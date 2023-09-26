@@ -43,7 +43,7 @@
   
   
   .dashboard {
-   background-image: url('/image/music1.jpg');
+   background-image: url('./image/music1.jpg');
     padding: 16px 16px 14px;
     background-color: #fff;
     position: fixed;
