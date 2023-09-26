@@ -40,14 +40,14 @@ const app = {
         singer: "Keyo",
         path: "music/TongPhu-KeyoVietNam-7802406.mp3",
         image:
-          "/image/tongphu.jpg"
+          "./image/tongphu.jpg"
       },
       {
         name: "Wating for you",
         singer: "MONO",
         path:
           "music/WaitingForYou-MONOOnionn-7733882.mp3",
-        image: "/image/watingforyou.jpg"
+        image: "./image/watingforyou.jpg"
       },
       {
         name: "Tháng tư là lời nói dối của em",
