@@ -38,7 +38,7 @@ const app = {
       {
         name: "Tòng phu",
         singer: "Keyo",
-        path: ".music/TongPhu-KeyoVietNam-7802406.mp3",
+        path: "music/TongPhu-KeyoVietNam-7802406.mp3",
         image:
           "./image/tongphu.jpg"
       },
@@ -46,27 +46,27 @@ const app = {
         name: "Wating for you",
         singer: "MONO",
         path:
-          ".music/WaitingForYou-MONOOnionn-7733882.mp3",
+          "music/WaitingForYou-MONOOnionn-7733882.mp3",
         image: "./image/watingforyou.jpg"
       },
       {
         name: "Tháng tư là lời nói dối của em",
         singer: "Hà Anh Tuấn",
-        path: ".music/ThangTuLaLoiNoiDoiCuaEm-HaAnhTuan-4609544.mp3",
+        path: "music/ThangTuLaLoiNoiDoiCuaEm-HaAnhTuan-4609544.mp3",
         image:
           "./image/tháng4lafloinoidoi.jfif"
       },
       {
         name: "Chẳng ai hiểu về tình yêu",
         singer: "Vũ Duy Khánh",
-        path: "./music/ChangAiHieuVeTinhYeuXuanTuanRemix-VuDuyKhanh-9790099.mp3",
+        path: "/music/ChangAiHieuVeTinhYeuXuanTuanRemix-VuDuyKhanh-9790099.mp3",
         image:
           "./image/changaihieu.jfif"
       },
       {
         name: "Vì quá yêu em",
         singer: "Vũ Duy Khánh",
-        path: "./music/ViQuaYeuEm-VuDuyKhanhACV-11705933.mp3",
+        path: "/music/ViQuaYeuEm-VuDuyKhanhACV-11705933.mp3",
         image:
           "./image/viquayeue.jfif"
       },
