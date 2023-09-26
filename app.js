@@ -59,14 +59,14 @@ const app = {
       {
         name: "Chẳng ai hiểu về tình yêu",
         singer: "Vũ Duy Khánh",
-        path: "/music/ChangAiHieuVeTinhYeuXuanTuanRemix-VuDuyKhanh-9790099.mp3",
+        path: "./music/ChangAiHieuVeTinhYeuXuanTuanRemix-VuDuyKhanh-9790099.mp3",
         image:
           "./image/changaihieu.jfif"
       },
       {
         name: "Vì quá yêu em",
         singer: "Vũ Duy Khánh",
-        path: "/music/ViQuaYeuEm-VuDuyKhanhACV-11705933.mp3",
+        path: "./music/ViQuaYeuEm-VuDuyKhanhACV-11705933.mp3",
         image:
           "./image/viquayeue.jfif"
       },
