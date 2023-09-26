@@ -31,14 +31,14 @@ const app = {
       {
         name: "À Lôi",
         singer: "Masew",
-        path: "/music/ALoi-Double2TMasew.mp3",
+        path: "./music/ALoi-Double2TMasew.mp3",
         image: "./image/aloi.png"
       },
   
       {
         name: "Tòng phu",
         singer: "Keyo",
-        path: "music/TongPhu-KeyoVietNam-7802406.mp3",
+        path: ".music/TongPhu-KeyoVietNam-7802406.mp3",
         image:
           "./image/tongphu.jpg"
       },
@@ -46,36 +46,36 @@ const app = {
         name: "Wating for you",
         singer: "MONO",
         path:
-          "music/WaitingForYou-MONOOnionn-7733882.mp3",
+          ".music/WaitingForYou-MONOOnionn-7733882.mp3",
         image: "./image/watingforyou.jpg"
       },
       {
         name: "Tháng tư là lời nói dối của em",
         singer: "Hà Anh Tuấn",
-        path: "music/ThangTuLaLoiNoiDoiCuaEm-HaAnhTuan-4609544.mp3",
+        path: ".music/ThangTuLaLoiNoiDoiCuaEm-HaAnhTuan-4609544.mp3",
         image:
-          "/image/tháng4lafloinoidoi.jfif"
+          "./image/tháng4lafloinoidoi.jfif"
       },
       {
         name: "Chẳng ai hiểu về tình yêu",
         singer: "Vũ Duy Khánh",
-        path: "/music/ChangAiHieuVeTinhYeuXuanTuanRemix-VuDuyKhanh-9790099.mp3",
+        path: "./music/ChangAiHieuVeTinhYeuXuanTuanRemix-VuDuyKhanh-9790099.mp3",
         image:
-          "/image/changaihieu.jfif"
+          "./image/changaihieu.jfif"
       },
       {
         name: "Vì quá yêu em",
         singer: "Vũ Duy Khánh",
-        path: "/music/ViQuaYeuEm-VuDuyKhanhACV-11705933.mp3",
+        path: "./music/ViQuaYeuEm-VuDuyKhanhACV-11705933.mp3",
         image:
-          "/image/viquayeue.jfif"
+          "./image/viquayeue.jfif"
       },
       {
         name: "Là Anh",
         singer: "Phạm Lịch",
-        path: "/music/LaAnh-PhamLichBMZ-8811329.mp3",
+        path: "./music/LaAnh-PhamLichBMZ-8811329.mp3",
         image:
-          "/image/laanh.jfif"
+          "./image/laanh.jfif"
       },
   ],
   setConfig: function(key,value){
