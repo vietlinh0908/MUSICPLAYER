@@ -196,7 +196,7 @@ const app = {
           }
           audio.play()
           _this.render()
-          _this.scrollTopActiveSong()
+          _this.scrollToActiveSong()
         }
 
         // lùi bài hat
@@ -206,7 +206,7 @@ const app = {
           }else{_this.prevSong()}
           audio.play()
           _this.render()
-          _this.scrollTopActiveSong()
+          _this.scrollToActiveSong()
         }
 
         // bật/ tắt nút chọn bài hát ngẫu nhiên
@@ -255,11 +255,11 @@ const app = {
 
               
   },
-  screenTopAcitveSong: function(){
+  scrollToActiveSong: function(){
         setTimeout(() => {
           $('.song.active').scrollIntoView({
               behavior: 'smooth',
-              block:'nearest',
+              block:'center',
           })
         },500)
   }, 
